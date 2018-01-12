@@ -1,6 +1,6 @@
 package Gitttt;
 
-public class Newclass {
+public class Newclassrenamed {
 public static void main(String[] args) {
 	System.out.println("balajiiiiii");
 }
